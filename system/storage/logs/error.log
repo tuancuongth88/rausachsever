@@ -1,0 +1,396 @@
+2017-04-10 17:12:07 - PHP Notice:  Undefined variable: heading_title in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 2
+2017-04-10 17:12:07 - PHP Notice:  Undefined variable: heading_text in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 5
+2017-04-10 17:12:18 - PHP Notice:  Undefined variable: data in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 29
+2017-04-10 17:12:18 - PHP Warning:  Invalid argument supplied for foreach() in E:\xampp\htdocs\opencartvn\system\engine\loader.php on line 83
+2017-04-10 17:12:18 - PHP Notice:  Undefined variable: heading_title in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 2
+2017-04-10 17:12:18 - PHP Notice:  Undefined variable: heading_text in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 5
+2017-04-10 17:12:24 - PHP Notice:  Undefined variable: heading_title in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 2
+2017-04-10 17:12:24 - PHP Notice:  Undefined variable: heading_text in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 5
+2017-04-10 17:12:51 - PHP Notice:  Undefined variable: data in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 29
+2017-04-10 17:12:51 - PHP Warning:  Invalid argument supplied for foreach() in E:\xampp\htdocs\opencartvn\system\engine\loader.php on line 83
+2017-04-10 17:12:51 - PHP Notice:  Undefined variable: heading_title in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 2
+2017-04-10 17:12:51 - PHP Notice:  Undefined variable: heading_text in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 5
+2017-04-10 17:49:44 - PHP Notice:  Undefined variable: data in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 29
+2017-04-10 17:49:44 - PHP Warning:  Invalid argument supplied for foreach() in E:\xampp\htdocs\opencartvn\system\engine\loader.php on line 83
+2017-04-10 17:49:44 - PHP Notice:  Undefined variable: heading_title in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 2
+2017-04-10 17:49:44 - PHP Notice:  Undefined variable: heading_text in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 5
+2017-04-10 17:49:59 - PHP Notice:  Undefined variable: heading_text in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 5
+2017-04-10 18:18:48 - PHP Notice:  Undefined variable: heading_text in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 5
+2017-04-10 18:20:05 - PHP Notice:  Undefined variable: description in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 18
+2017-04-10 18:41:11 - PHP Notice:  Undefined variable: description in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 18
+2017-04-10 18:43:05 - PHP Notice:  Undefined variable: description in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 18
+2017-04-10 18:43:36 - PHP Notice:  Undefined variable: breadcrumbs in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 4
+2017-04-10 18:43:36 - PHP Warning:  Invalid argument supplied for foreach() in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 4
+2017-04-10 18:43:36 - PHP Notice:  Undefined variable: heading_title in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 17
+2017-04-10 18:43:36 - PHP Notice:  Undefined variable: description in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 18
+2017-04-10 18:43:46 - PHP Notice:  Undefined variable: breadcrumbs in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 4
+2017-04-10 18:43:46 - PHP Warning:  Invalid argument supplied for foreach() in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 4
+2017-04-10 18:43:46 - PHP Notice:  Undefined variable: column_left in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 8
+2017-04-10 18:43:46 - PHP Notice:  Undefined variable: column_left in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 9
+2017-04-10 18:43:46 - PHP Notice:  Undefined variable: column_left in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 11
+2017-04-10 18:43:46 - PHP Notice:  Undefined variable: column_right in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 11
+2017-04-10 18:43:46 - PHP Notice:  Undefined variable: content_top in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 16
+2017-04-10 18:43:46 - PHP Notice:  Undefined variable: heading_title in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 17
+2017-04-10 18:43:46 - PHP Notice:  Undefined variable: description in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 18
+2017-04-10 18:43:46 - PHP Notice:  Undefined variable: content_bottom in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 18
+2017-04-10 18:43:46 - PHP Notice:  Undefined variable: column_right in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 19
+2017-04-10 18:44:18 - PHP Notice:  Undefined variable: column_left in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 6
+2017-04-10 18:44:18 - PHP Notice:  Undefined variable: column_left in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 7
+2017-04-10 18:44:18 - PHP Notice:  Undefined variable: column_left in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 9
+2017-04-10 18:44:18 - PHP Notice:  Undefined variable: column_right in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 9
+2017-04-10 18:44:18 - PHP Notice:  Undefined variable: content_top in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 14
+2017-04-10 18:44:18 - PHP Notice:  Undefined variable: heading_title in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 15
+2017-04-10 18:44:18 - PHP Notice:  Undefined variable: description in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 16
+2017-04-10 18:44:18 - PHP Notice:  Undefined variable: content_bottom in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 16
+2017-04-10 18:44:18 - PHP Notice:  Undefined variable: column_right in E:\xampp\htdocs\opencartvn\catalog\view\theme\default\template\custom\serwis.tpl on line 17
+2017-04-10 19:44:08 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 11
+2017-04-10 19:44:18 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 11
+2017-04-10 19:44:26 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 11
+2017-04-10 19:44:36 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 11
+2017-04-10 19:45:11 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:11 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:11 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:11 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:11 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:11 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:11 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:11 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:12 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:12 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:12 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:12 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:12 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:12 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:12 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:12 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:12 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:12 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:12 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:12 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:12 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:12 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:12 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:12 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:12 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:12 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:12 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:12 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:12 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:12 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:15 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:15 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:15 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:15 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:15 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:15 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:15 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:15 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:15 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:15 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:15 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:15 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:15 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:15 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:15 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:15 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:15 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:15 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:45:15 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:45:15 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:45:15 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:45:15 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:46:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:46:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:46:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:46:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:46:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:46:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:46:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:46:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:46:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:46:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:46:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:46:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:46:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:46:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:46:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:46:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:46:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:46:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:46:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:46:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:46:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:46:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:00 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:00 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:00 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:00 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:00 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:00 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:00 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:00 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:00 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:00 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:00 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:00 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:00 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:00 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:00 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:00 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:00 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:00 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:00 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:00 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:00 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:00 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:29 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:29 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:29 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:29 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:29 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:29 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:29 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:29 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:29 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:29 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:29 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:29 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:29 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:29 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:29 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:29 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:29 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:29 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:29 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:29 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:29 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:29 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:54 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:54 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:54 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:54 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:54 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:54 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:54 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:54 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:54 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:54 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:54 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:54 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:54 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:54 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:54 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:54 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:54 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:54 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:47:54 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:47:54 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:47:54 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:47:54 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:48:04 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:48:04 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:48:04 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:48:04 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:48:04 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:48:04 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:48:04 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:48:04 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:48:04 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:48:04 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:48:04 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:48:04 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:48:04 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:48:04 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:48:04 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:48:04 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:48:04 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:48:04 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Notice:  Undefined variable: setting in E:\xampp\htdocs\opencartvn\catalog\controller\custom\serwis.php on line 16
+2017-04-10 19:48:04 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\opencartvn\system\library\image.php on line 105
+2017-04-10 19:48:04 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 113
+2017-04-10 19:48:04 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 116
+2017-04-10 19:48:04 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\opencartvn\system\library\image.php on line 118
+2017-04-10 20:05:08 - PHP Notice:  Undefined variable: newsInfomation in E:\xampp\htdocs\opencartvn\catalog\view\theme\wds\template\common\header.tpl on line 256
+2017-04-10 20:05:22 - PHP Notice:  Undefined property: Template\PHP::$language in E:\xampp\htdocs\opencartvn\catalog\view\theme\wds\template\common\header.tpl on line 257
+2017-04-10 20:06:49 - PHP Notice:  Undefined property: Template\PHP::$lang in E:\xampp\htdocs\opencartvn\catalog\view\theme\wds\template\common\header.tpl on line 257
+2017-04-10 20:07:45 - PHP Notice:  Undefined variable: newsInfomation in E:\xampp\htdocs\opencartvn\catalog\view\theme\wds\template\common\header.tpl on line 258
+2017-04-12 2:16:19 - PHP Notice:  Undefined index: sku in /var/www/rausachvn/admin/model/catalog/product.php on line 130
+2017-04-12 2:16:19 - PHP Notice:  Undefined index: upc in /var/www/rausachvn/admin/model/catalog/product.php on line 130
+2017-04-12 2:16:19 - PHP Notice:  Undefined index: ean in /var/www/rausachvn/admin/model/catalog/product.php on line 130
+2017-04-12 2:16:19 - PHP Notice:  Undefined index: jan in /var/www/rausachvn/admin/model/catalog/product.php on line 130
+2017-04-12 2:16:19 - PHP Notice:  Undefined index: isbn in /var/www/rausachvn/admin/model/catalog/product.php on line 130
+2017-04-12 2:16:19 - PHP Notice:  Undefined index: mpn in /var/www/rausachvn/admin/model/catalog/product.php on line 130
+2017-04-15 18:01:47 - PHP Notice:  Undefined variable: continue in /var/www/rausachvn/catalog/view/theme/wds/template/news/search.tpl on line 146
