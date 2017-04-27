@@ -2,4 +2,6 @@
 .idea*
 config.php
 admin/config.php
-.htaccess
+.htaccessconfig.php
+admin/config.php
+system/
